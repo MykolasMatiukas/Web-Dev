@@ -1,0 +1,71 @@
+form button {
+    background-color: #264653;
+    font-size: 30px;
+    color: white;
+}
+
+* {
+    font-family: tahoma;
+}
+
+.mama {
+    font-size: 15px;
+    background-color: #e63946;
+    color: white;
+}
+
+section a, .tete {
+    color: #0077b6;
+    font-size: ;
+    font-size: 15px;
+}
+
+section button {
+    font-size: 25px;
+    background-color: #fca311;
+}
+
+h2 + button {
+    color: white;
+}
+
+h1, h2 {
+    color: #283618;
+}
+
+footer a {
+    color: red;
+}
+
+footer > a {
+    color: #774936;
+    text-decoration: none;
+}
+
+input[type="password"] {
+    color: #e63946;
+}
+
+section button:hover {
+    background-color: #e63946;
+}
+
+section button:active {
+    background-color: #283618;
+}
+
+section:nth-of-type(2n) {
+    background-color: aqua;
+}
+
+h2::first-letter {
+    font-size: 35px;
+}
+
+p::first-line {
+    color: #fca311;
+}
+
+p::selection {
+    background-color: #e63946;
+}

@@ -1,0 +1,15 @@
+img {
+    width: 30%;
+    margin: calc(10%/6);
+   
+}
+
+nav {
+    border-bottom: 2px solid rgb(196, 192, 192);
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 1.2em 0;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+}
